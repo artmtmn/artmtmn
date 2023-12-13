@@ -2,6 +2,17 @@
 
 Я начинающий QA <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="20px"> специалист в настоящем , пианист и композитор в прошлом <img src="https://media.giphy.com/media/ScQRX0jaOfFmESOM5J/giphy.gif" width="30px">
 
+### 🤝 Связь:
+
+  <div id="badges">
+    <a href="https://t.me/artmtmn" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+    <a href="https://vk.com/artmtmn" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
+  
 ---
 
 ### 📁 Тестовая документация:
@@ -31,8 +42,7 @@
   <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/bash-vector-logo-seeklogo.com/bash-seeklogo.com.svg" title="Bash" width="40" height="40"/>&nbsp
   <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/git-vector-logo-seeklogo.com/git-seeklogo.com.svg" title="Git" width="40" height="40"/>&nbsp
   <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/wireshark-vector-logo-seeklogo.com/wireshark-seeklogo.com.svg" title="Wireshark" width="100" height="30"/>&nbsp
-  <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/jmeter-vector-logo-seeklogo.com/jmeter-seeklogo.com.svg" title="jMeter" width="90" height="30"/>&nbsp
-  
+  <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/jmeter-vector-logo-seeklogo.com/jmeter-seeklogo.com.svg" title="jMeter" width="90" height="30"/>&nbsp  
 </div>
 
 
