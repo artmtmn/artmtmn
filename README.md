@@ -1,7 +1,5 @@
 ## Привет, меня зовут Артем!
 
----
-
 Я начинающий QA <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="20px"> специалист в настоящем , пианист и композитор в прошлом <img src="https://media.giphy.com/media/ScQRX0jaOfFmESOM5J/giphy.gif" width="30px">
 
 ---
@@ -23,7 +21,11 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" width="40" height="40"/>&nbsp
+  <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/charles_proxy_macos_bigsur_icon_190302.png" title="Charles" width="40" height="40"/>&nbsp
+  <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/google-chrome-dev-vector-logo-seeklogo.com/google-chrome-dev-seeklogo.com.eps" title="DevTools" width="40" height="40"/>&nbsp
+  <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/charles_proxy_macos_bigsur_icon_190302.png" title="Charles" width="40" height="40"/>&nbsp
+  <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/charles_proxy_macos_bigsur_icon_190302.png" title="Charles" width="40" height="40"/>&nbsp
+  <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/charles_proxy_macos_bigsur_icon_190302.png" title="Charles" width="40" height="40"/>&nbsp
 </div>
 
 
