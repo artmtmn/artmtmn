@@ -1,5 +1,4 @@
-## I'm a QA engineer in the present, pianist and composer in the past
+## Привет, меня зовут Артем.
 
+Я начинающий QA специалист в настоящем <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">, пианист и композитор в прошлом.
 
-### Stack and tools
-<img src="https://img.shields.io/badge/linux-008080?style=for-the-badge&logo=linux&logoColor=000000"/>   <img src="https://img.shields.io/badge/Bash-8FBC8F?style=for-the-badge&logo=gnu bash&logoColor=000000"/>   <img src="https://img.shields.io/badge/PostgreSQL-00FFFF?style=for-the-badge&logo=postgresql&logoColor=000000"/>   <img src="https://img.shields.io/badge/Postman-AFEEEE?style=for-the-badge&logo=postman&logoColor=000000"/>   <img src="https://img.shields.io/badge/swagger-00CED1?style=for-the-badge&logo=swagger&logoColor=000000"/>   <img src="https://img.shields.io/badge/docker-40E0D0?style=for-the-badge&logo=docker&logoColor=000000"/>   <img src="https://img.shields.io/badge/selenium-008B8B?style=for-the-badge&logo=selenium&logoColor=000000"/>   <img src="https://img.shields.io/badge/jmeter-48D1CC?style=for-the-badge&logo=apachejmeter&logoColor=000000"/>   <img src="https://img.shields.io/badge/wireshark-20B2AA?style=for-the-badge&logo=wireshark&logoColor=000000"/>   <img src="https://img.shields.io/badge/figma-66CDAA?style=for-the-badge&logo=figma&logoColor=000000"/>   <img src="https://img.shields.io/badge/jira-E0FFFF?style=for-the-badge&logo=jira&logoColor=000000"/>
