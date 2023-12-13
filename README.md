@@ -6,10 +6,10 @@
 
   <div id="badges">
     <a href="https://t.me/artmtmn" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/telegram-new-2019-vector-logo-seeklogo.com/telegram-new-2019-seeklogo.com.svg" width="40" height="40" alt="telegram group" />
     </a>
     <a href="https://vk.com/artmtmn" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/vk-icon-vector-logo-seeklogo.com/vk-icon-seeklogo.com.svg" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
   
