@@ -6,11 +6,24 @@
 
 ---
 
+### 📁 Тестовая документация:
+
+<div>
+  <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/clickup-symbol-vector-logo-seeklogo.com/clickup-symbol-seeklogo.com.svg" title="ClickUp" width="40" height="40"/>&nbsp
+  <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/trello-vector-logo-seeklogo.com/trello-seeklogo.com.svg" title="Trello" width="40" height="40"/>&nbsp
+  <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/miro-vector-logo-seeklogo.com/miro-seeklogo.com.svg" title="Miro" width="40" height="40"/>&nbsp
+  <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/notion-icon-vector-logo-seeklogo.com/notion-icon-seeklogo.com.svg" title="Notion" width="40" height="40"/>&nbsp
+  <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/figma-vector-logo-seeklogo.com/figma-seeklogo.com.svg" title="Figma" width="40" height="40"/>&nbsp
+  <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/swagger-vector-logo-seeklogo.com/swagger-seeklogo.com.svg" title="Swagger" width="40" height="40"/>&nbsp
+</div>
+
+---
+
 ### 🛠 Инструменты и технологии:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="postgresql-original" width="40" height="40"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" width="40" height="40"/>&nbsp
 </div>
 
 
