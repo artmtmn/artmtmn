@@ -44,7 +44,6 @@
   <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/tux-vector-logo-seeklogo.com/tux-seeklogo.com.svg" title="Linux" width="40" height="40"/>&nbsp
   <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/bash-vector-logo-seeklogo.com/bash-seeklogo.com.svg" title="Bash" width="40" height="40"/>&nbsp
   <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/git-vector-logo-seeklogo.com/git-seeklogo.com.svg" title="Git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/wireshark-vector-logo-seeklogo.com/wireshark-seeklogo.com.svg" title="Wireshark" width="100" height="30"/>&nbsp
   <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/jmeter-vector-logo-seeklogo.com/jmeter-seeklogo.com.svg" title="jMeter" width="90" height="30"/>&nbsp  
 </div>
 
