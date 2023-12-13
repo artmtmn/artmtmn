@@ -12,7 +12,7 @@
       <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/vk-icon-vector-logo-seeklogo.com/vk-icon-seeklogo.com.svg" width="40" height="40" alt="VK Badge"/>
     </a>
     <a href="https://artmtmn@gmail.com" target="_blank">
-      <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/gmail-new-2020-vector-logo-seeklogo.com/gmail-new-2020-seeklogo.com-3.svg" width="40" height="40" alt="gmail"/>
+      <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/gmail-new-2020-vector-logo-seeklogo.com/gmail-new-2020-seeklogo.com-4.png" width="53" height="40" alt="gmail"/>
     </a>
   </div>
   
