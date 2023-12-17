@@ -39,6 +39,7 @@
   <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/charles_proxy_macos_bigsur_icon_190302.png" title="Charles" width="40" height="40"/>&nbsp
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" width="40" height="40"/>&nbsp
   <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/postman-vector-logo-seeklogo.com/postman-seeklogo.com.svg" title="Postman" width="40" height="40"/>&nbsp
+  <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/soapui-icon.svg" title="SoapUI" width="40" height="40"/>&nbsp
   <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/docker-vector-logo-seeklogo.com/docker-seeklogo.com.svg" title="Docker" width="40" height="40"/>&nbsp
   <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/selenium-vector-logo-seeklogo.com/selenium-seeklogo.com.svg" title="Selenium IDE" width="40" height="40"/>&nbsp
   <img src="https://github.com/artmtmn/artmtmn/blob/main/assets/tux-vector-logo-seeklogo.com/tux-seeklogo.com.svg" title="Linux" width="40" height="40"/>&nbsp
